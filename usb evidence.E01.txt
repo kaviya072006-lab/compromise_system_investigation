@@ -1,0 +1,46 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\lathika\Downloads\usb evidence:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 12
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 204,800
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 100 MB
+ Sector count:    204800
+[Computed Hashes]
+ MD5 checksum:    80b77c2bbda9712200fc6a873faee717
+ SHA1 checksum:   e6e6a4dfcecbe69ecf259c752434bec3b868f6da
+
+Image Information:
+ Acquisition started:   Wed Dec  3 11:13:51 2025
+ Acquisition finished:  Wed Dec  3 11:13:51 2025
+ Segment list:
+  C:\Users\lathika\Downloads\usb evidence.E01
+ COMPUTED HASH :  80b77c2bbda9712200fc6a873faee717
+ COMPUTED HASH :  e6e6a4dfcecbe69ecf259c752434bec3b868f6da
+
+Image Verification Results:
+ Verification started:  Wed Dec  3 11:13:51 2025
+ Verification finished: Wed Dec  3 11:13:52 2025
+ MD5 checksum:    80b77c2bbda9712200fc6a873faee717 : verified
+ SHA1 checksum:   e6e6a4dfcecbe69ecf259c752434bec3b868f6da : verified
